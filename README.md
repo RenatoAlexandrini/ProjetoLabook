@@ -13,7 +13,7 @@ O Projeto Labook tem como função, colocar em prática os conceitos de arquitet
 </h4>
 <h4>
 <img src="https://user-images.githubusercontent.com/102265620/231604465-8ca9a5b5-ff6a-4e4f-b09f-ec530dc69bd7.png" width="25" height="25"/>
-Sendo assim o projeto possuí uma estrutura que simula uma api de redes sociai contendo as entidades prinicipais de usuários e postgens junto com entidades complementares, de amizades, likes e comentários feita inteiramente em Typescript e SQL.
+Sendo assim o projeto possuí uma estrutura que simula uma API de redes sociais, contendo as entidades principais de usuários e postgens junto com entidades complementares, de amizades, likes e comentários, realizado inteiramente em Typescript e SQL.
 </h4>
 <hr>
 <h3>
