@@ -17,32 +17,32 @@ Sendo assim o projeto possuí uma estrutura que simula uma API de redes sociais,
 </h4>
 <hr>
 <h3>
-<img src="https://user-images.githubusercontent.com/102265620/231604801-2819f988-b3ac-4cda-8b69-f9201cd15635.png" width="30" height="30"/>
+  
+  <img src="https://user-images.githubusercontent.com/102265620/231604801-2819f988-b3ac-4cda-8b69-f9201cd15635.png" width="35" height="35" align="center"/>
 Como Testar
 </h3>
 <h4>
-<img src="https://user-images.githubusercontent.com/102265620/231631183-b07aa587-42e9-43a4-a05b-871bf4519ac7.png" width="20" height="20"/> Link da documentação via Postman:
+<img src="https://user-images.githubusercontent.com/102265620/231886670-84bbf853-61da-4e86-9e84-ed339e0869bb.png" width="20" height="20" align="center" /> Link da Documentação via Postman:
 <br></br>
 https://documenter.getpostman.com/view/24755055/2s935oM4kC
 <br></br>
-<br></br>
-<img src="https://user-images.githubusercontent.com/102265620/230519105-cde9cf7d-02fe-4561-8073-38e6ad1909dd.png" width="20" height="20"/> Link do Render:
-
-https://projeto-jemison-labook11-vylc.onrender.com
-
+- Com o Postman instalado em seu computador, basta abrir a documentação e clicar no botão <img src="https://github.com/RenatoAlexandrini/LabenuSystem/assets/102265620/b4329b29-60d4-4ed4-8f94-0ca08cc866a9" width="170" height="50" align="center"/>  para testar diretamente no Postman.
 <br></br>
 </h4>
+<h4>
+<img src="https://github.com/RenatoAlexandrini/ProjetoLabook/assets/102265620/bac2c7fb-7ee2-4440-a68d-0e413a3480af" width="30" height="30" align="center"/> Para testar localmente:
+</h4>
+
 
 ```
-- git clone https://github.com/RenatoAlexandrini/Projeto-LabEcommerce-Backend
+- inicie o Git Bash em uma pasta e digite:
+- git clone https://github.com/RenatoAlexandrini/ProjetoLabook
 - npm install
 - npm run migrations
 - npm run start
+- Em cada endpoint, substitua o "https://projeto-jemison-labook11-vylc.onrender.com" por "http://localhost:3003"
 ```
 <hr>
-
-
-
 
 <h2>
 <img src="https://user-images.githubusercontent.com/102265620/231631949-1cf7490b-390e-47fe-8915-545fae05a0ee.png" width="35" height="35"/> Endpoints:
